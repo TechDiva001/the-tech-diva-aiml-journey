@@ -63,6 +63,7 @@ I share the unfiltered reality of this path on <b>LinkedIn</b> and across social
 | Phase 5 | Deep Learning | ⏳ Upcoming |
 | Phase 6 | Modern AI Engineering | ⏳ Upcoming |
 | Anthropic Gap | Safety · Interpretability · RLHF | ⏳ Upcoming |
+| Competitions | Zindi · Kaggle · Hackathons | ⏳ Ongoing |
 
 ---
 ## 🎓 Certifications & Side Learning.
@@ -71,7 +72,7 @@ I share the unfiltered reality of this path on <b>LinkedIn</b> and across social
 |---|---|---|---|
 | 30 Certificates | Various Platforms | ✅ Completed | [View on Google Drive](https://drive.google.com/drive/folders/1x1k3v1Szme1ws0ajNPSxPF0Z-BK_wuBy?usp=sharing) |
 | Data Scientist Track | DataCamp | 🔄 In Progress | — |
-| Claude AI Mastery Track | Anthropic | ⏳ Upcoming | — |
+| Anthropic Research & Safety Reading | Self-Study | ⏳ Upcoming | — |
 | Future AI/ML Course | TBD | ⏳ Planned | — |
 ---
 
