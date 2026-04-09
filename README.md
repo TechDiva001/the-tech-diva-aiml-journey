@@ -22,7 +22,7 @@ I share the unfiltered reality of this path on <b>LinkedIn</b> and across social
 | 📗 Modern AI Engineering Guide | NLP, CV, LLMs, GenAI, RAG, Agents |
 | 📕 Anthropic Gap Track | AI Safety, Mech Interp, RLHF, CAI |
 
-📂 All three PDFs live in the [`/ROADMAPS`](./ROADMAPS/) folder.
+📂 All three PDFs live in the [Roadmaps](https://github.com/TechDiva001/the-tech-diva-aiml-journey/tree/main/00_ROADMAPS) folder
 
 ---
 
