@@ -26,16 +26,19 @@ I share the unfiltered reality of this path on <b>LinkedIn</b> and across social
 
 ---
 
-## ⭐ How to Use This Repo
+## ⭐ Join the Journey
 
-- ⭐ Star this repo to save it for later  
-- 🍴 Fork it to track your own AI/ML journey  
-- 🧭 Follow the phases step-by-step using the roadmap  
-- 🛠 Build projects alongside each phase  
-- ⏳ Don’t rush — consistency > speed  
+If you want to follow along or use this as a guide for your own learning:
 
-> This is not a “perfect” roadmap. It’s a real, evolving journey. Adapt it to your own pace.
+- ⭐ Star this repo to support and save it  
+- 🍴 Fork it to build your own version of the journey  
+- 🧭 Explore the phases in order (or at your own pace)  
+- 🛠 Learn by building alongside each stage  
+- ⏳ Move at your own rhythm — consistency matters more than speed  
 
+> This is not a “perfect” roadmap. It is my personal AI/ML journey documented in public.
+
+> You’re welcome to learn from it, adapt it, and grow with it.  
 ---
 
 ### 🛠 Tech Stack & Core Ecosystem.
