@@ -70,7 +70,7 @@ If you want to follow along or use this as a guide for your own learning:
 | Phase | Topic | Status |
 |---|---|---|
 | Pre-Roadmap | Kaggle 5 Courses + First ML Model | ✅ Done |
-| Phase 0 | Python — University of Helsinki | 🔄 195/200+ exercises |
+| Phase 0 | Python — University of Helsinki | 🔄 91/352 exercises |
 | Phase 1 | Statistics · EDA · Visualization | 🔄 In Progress |
 | Phase 2 | SQL + Databases | ⏳ Up Next |
 | Phase 3 | Machine Learning | ⏳ Upcoming |
