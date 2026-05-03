@@ -3,7 +3,7 @@
 This folder contains all Python exercises completed as part of my learning journey.
 
 ## 📁 Sections
-- **Introduction to Programming (Parts 1–7)**
+- **Introduction to Programming (Parts 1–7)** ✅ Completed
 - **Advanced Programming (Parts 8–14)**
 
 ## 📊 Overview
