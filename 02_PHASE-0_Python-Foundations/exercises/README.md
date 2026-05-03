@@ -4,7 +4,7 @@ This folder contains all Python exercises completed as part of my learning journ
 
 ## 📁 Sections
 - **Introduction to Programming (Parts 1–7)** ✅ Completed
-- **Advanced Programming (Parts 8–14)**
+- **Advanced Programming (Parts 8–14)** 🔄 In Progress
 
 ## 📊 Overview
 - Total Exercises: 350+
