@@ -7,13 +7,13 @@ https://programming-26.mooc.fi/
 
 | Part | Exercises Completed | Total Exercises | Status |
 |---|---|---|---|
-| Part 1 | 14 | 33 | ⬜ In Progress |
-| Part 2 | 0 | - | ⬜ Not Started |
-| Part 3 | 0 | - | ⬜ Not Started |
-| Part 4 | 0 | - | ⬜ Not Started |
-| Part 5 | 0 | - | ⬜ Not Started |
-| Part 6 | 0 | - | ⬜ Not Started |
-| Part 7 | 0 | - | ⬜ Not Started |
+| Part 1 | 31 | 31 | ✅ Completed |
+| Part 2 | 26 | 26 | ✅ Completed|
+| Part 3 | 34 | 34 | ✅ Completed |
+| Part 4 | 38 | 38 | ✅ Completed |
+| Part 5 | 30 | 30 | ✅ Completed |
+| Part 6 | 22 | 22 | ✅ Completed |
+| Part 7 | 20 | 20 | ✅ Completed |
 
 ## Advance Course in Programming Progress Tracker
 
