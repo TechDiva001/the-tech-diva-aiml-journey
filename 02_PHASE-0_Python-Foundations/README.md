@@ -10,4 +10,5 @@ University of Helsinki — Python Programming MOOC
 See [helsinki-progress.md](./helsinki-progress.md) for exercise tracking.
 
 ## Status
-🔄 In Progress
+Introduction to Programming ✅ Completed
+Advanced Course in Programming 🔄 In Progress
