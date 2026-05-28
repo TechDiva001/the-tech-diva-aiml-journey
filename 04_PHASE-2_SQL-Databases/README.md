@@ -16,4 +16,4 @@ Learn SQL and database management for data science workflows.
 | [Capstone](./capstone/) | 🔜 Coming Soon |
 
 ## Status
-🔜 Not Started Yet
+🔄 In Progress
