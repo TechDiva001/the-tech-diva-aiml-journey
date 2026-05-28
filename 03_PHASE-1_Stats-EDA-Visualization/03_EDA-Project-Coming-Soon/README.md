@@ -33,4 +33,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Google Colab
 ---
 
 ## Main Repo
-[csv](https://github.com/TechDiva001/csv-auto-cleaner)
+[CSV Auto Cleaner](https://github.com/TechDiva001/csv-auto-cleaner)
