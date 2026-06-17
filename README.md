@@ -85,7 +85,7 @@ If you want to follow along or use this as a guide for your own learning:
 
 | Certification / Course | Platform / Source | Status | Access / Link |
 |---|---|---|---|
-| 30 Certificates | Various Platforms | ✅ Completed | [View on Google Drive](https://drive.google.com/drive/folders/1x1k3v1Szme1ws0ajNPSxPF0Z-BK_wuBy?usp=sharing) |
+| 39 Certificates | Various Platforms | ✅ Completed | [View on Google Drive](https://drive.google.com/drive/folders/1x1k3v1Szme1ws0ajNPSxPF0Z-BK_wuBy?usp=sharing) |
 | Data Scientist Track | DataCamp | 🔄 In Progress | — |
 | Anthropic Research & Safety Reading | Self-Study | ⏳ Upcoming | — |
 | Future AI/ML Course | TBD | ⏳ Planned | — |
