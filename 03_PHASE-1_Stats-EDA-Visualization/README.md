@@ -10,7 +10,7 @@ using real Ghanaian and African datasets.
 |---|---|---|
 | [01 - Ghana Road Accidents & Fatalities](./01_Ghana-Road-Accidents-Fatalities/) | EDA on road accident data | ✅ Complete |
 | [02 - Ghanaian Foods NumPy Health Analysis](./02_Ghanaian-Foods-NumPy-Health-Analysis/) | Nutritional analysis of Ghanaian foods | ✅ Complete |
-| [03 - CSV Auto Cleaner —_EDA Capstone](./03_EDA-Capstone-CSV-Auto-Cleaner/) | CSV Auto Cleaner | ✅ Complete |
+| [03 - CSV Auto Cleaner (EDA Capstone)](./03_EDA-Capstone-CSV-Auto-Cleaner/) | CSV Auto Cleaner | ✅ Complete |
 
 ## Tools Used
 Python, NumPy, Pandas, Matplotlib, Seaborn
