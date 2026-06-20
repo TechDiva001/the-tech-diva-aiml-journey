@@ -14,7 +14,7 @@ on AWS — SageMaker, Bedrock, and AWS's own internal ML training curriculum.
 | [04 - GenAI Learning Plan (Developers)](./04_GenAI-Developers/) | 🔜 Coming Soon |
 | [05 - GenAI Learning Plan (Model Builders)](./05_GenAI-Model-Builders/) | 🔜 Coming Soon |
 | [06 - Financial Services Learning Plan](./06_Financial-Services/) | 🔜 Coming Soon |
-| [07 - Intelligent Document Processing](./07_Intelligent-Document-Processing/) | 🔜 Coming Soon |
+
 
 ## Status
 🔜 Not Started Yet
