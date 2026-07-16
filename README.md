@@ -72,9 +72,9 @@ If you want to follow along or use this as a guide for your own learning:
 | Pre-Roadmap | Kaggle 5 Courses + First ML Model | ✅ Done |
 | Phase 0 | Python — University of Helsinki | ✅ Intro to Programming Completed |
 | Phase 1 | Statistics · EDA · Visualization | ✅ Completed |
-| Phase 2 | SQL + Databases | 🔁 In Progress....(90%) |
-| Phase 3 | Machine Learning + WQU Data Science Projects | ⏳ Up Next |
-| Phase 4 | Git · Docker · MLOps | ⏳ Upcoming |
+| Phase 2 | SQL + Databases |  ✅ Done |
+| Phase 3 | Machine Learning + WQU Data Science Projects |  🔄 In Progress |
+| Phase 4 | Git · Docker · MLOps | ⏳ Up Next |
 | Phase 5 | Deep Learning + WQU DL Projects + Reinforcement Learning  | ⏳ Upcoming |
 | Phase 6 | Modern AI Engineering | ⏳ Upcoming |
 | Anthropic Gap | Safety · Interpretability · RLHF | ⏳ Upcoming |
