@@ -13,7 +13,7 @@ Learn SQL and database management for data science workflows.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-|SQL Capstone Project | SQL analysis of galamsey's impact on Ghana's rivers | ✅ Completed |
+|[SQL Capstone Project](https://github.com/TechDiva001/the-tech-diva-aiml-journey/tree/main/04_PHASE-2_SQL-Databases/capstone) | SQL analysis of galamsey's impact on Ghana's rivers | ✅ Completed |
 
 ### Featured Project
 
