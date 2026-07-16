@@ -100,7 +100,7 @@ If you want to follow along or use this as a guide for your own learning:
 | 🚗 Ghana Road Accident Fatality Rates | Phase 1 | NumPy, Pandas, Seaborn | ✅ Done |
 | 🍲 Ghanaian Foods Health Risk Analysis | Phase 1 | NumPy, Matplotlib, Pandas | ✅ Done |
 | EDA Capstone Project | Phase 1 | NumPy, Matplotlib, Pandas, Seaborn | ✅ Done|
-| SQL Database Capstone Project | Phase 2 | TBD | 🔄 Coming Soon |
+| SQL Database Capstone Project | Phase 2 | TBD | ✅ Done |
 ---
 
 ### 📊 GitHub Stats
