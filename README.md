@@ -97,7 +97,7 @@ If you want to follow along or use this as a guide for your own learning:
 |---|---|---|---|
 | 🇬🇭 Inflation Rate Prediction — Ghana | Pre-Roadmap | Kaggle, ML | ✅ Done |
 | 📊 WASSCE 2025 Results Analysis | Pre-Roadmap | Pandas, Viz | ✅ Done |
-| 🚗 Ghana Road Accident Fatality Rates | Phase 1 | NumPy, Pandas, Seaborn | ✅ Done |
+| 🚗 Ghana Road Accident Fatality Rates | Phase 1 | Python, Statistics, Seaborn | ✅ Done |
 | 🍲 Ghanaian Foods Health Risk Analysis | Phase 1 | NumPy, Matplotlib, Pandas | ✅ Done |
 | CSV Auto-Cleaner — EDA Capstone | Phase 1 | Python, Matplotlib, Pandas | ✅ Done |
 | Galamsey Impact Tracker — SQL Capstone | Phase 2 | SQLite, Pandas, Plotly | ✅ Done |
