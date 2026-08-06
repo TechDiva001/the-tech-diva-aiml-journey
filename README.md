@@ -99,8 +99,8 @@ If you want to follow along or use this as a guide for your own learning:
 | 📊 WASSCE 2025 Results Analysis | Pre-Roadmap | Pandas, Viz | ✅ Done |
 | 🚗 Ghana Road Accident Fatality Rates | Phase 1 | NumPy, Pandas, Seaborn | ✅ Done |
 | 🍲 Ghanaian Foods Health Risk Analysis | Phase 1 | NumPy, Matplotlib, Pandas | ✅ Done |
-| EDA Capstone Project | Phase 1 | NumPy, Matplotlib, Pandas, Seaborn | ✅ Done|
-| SQL Database Capstone Project | Phase 2 | TBD | ✅ Done |
+| CSV Auto-Cleaner — EDA Capstone | Phase 1 | Python, Matplotlib, Pandas | ✅ Done |
+| Galamsey Impact Tracker — SQL Capstone | Phase 2 | SQLite, Pandas, Plotly | ✅ Done |
 ---
 
 ### 📊 GitHub Stats
