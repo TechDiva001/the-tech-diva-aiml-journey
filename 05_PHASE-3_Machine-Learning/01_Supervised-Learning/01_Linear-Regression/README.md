@@ -1,4 +1,10 @@
 # 📈 Linear Regression
 
+## Projects
+
+| **Project** | **Status** |
+|---|---|
+| Simple Linear Regression from Scratch | ✅ Completed |
+
 ## Status
-🔜 Coming Soon
+🟡 In Progress
